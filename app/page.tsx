@@ -13,7 +13,7 @@ export default function Home() {
         className="text-center"
       >
         <Image
-          src="/profile-picture.jpg"
+          src="/pp3.jpg"
           alt="Armanpreet"
           width={150}
           height={150}
